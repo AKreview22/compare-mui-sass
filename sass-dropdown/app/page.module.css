@@ -1,0 +1,26 @@
+.pageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .dropdownWrapper {
+    display: flex;
+    gap: 128px; 
+  }
+  
+  .customTag {
+    display: inline-flex;
+    align-items: center;
+    background-color: #3498db;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 12px;
+  }
+  
+  .customTagIcon {
+    margin-right: 4px;
+  }
+  

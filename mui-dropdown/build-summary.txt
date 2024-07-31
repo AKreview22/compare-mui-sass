@@ -1,0 +1,24 @@
+Server-side (Node.js)
+Build Time: 2291ms
+Bundle Size: 180KB
+
+Server-side (Node.js)
+Build Time: 2887ms
+Bundle Size: 2KB
+
+Client-side
+Build Time: 4594ms
+Bundle Size: 745KB
+
+Server-side (Node.js)
+Build Time: 612ms
+Bundle Size: 180KB
+
+Server-side (Node.js)
+Build Time: 628ms
+Bundle Size: 2KB
+
+Client-side
+Build Time: 1566ms
+Bundle Size: 25KB
+

@@ -1,0 +1,25 @@
+.dropdown {
+    width: 100%;
+    max-width: 300px;
+    margin: 24px 0;
+}
+
+.select {
+    width: 100%;
+    border-radius: 32px;
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.select:focus {
+    border-color: #3498db;
+}
+
+.menuItem {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox {
+    margin-right: 8px;
+}
